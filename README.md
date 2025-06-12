@@ -36,22 +36,5 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 
 
-\## 项目结构
-
-notebooks/01_eda_trending_analysis.ipynb
-
-youtube-trending-analysis/
-├── data/archive/         # 放置 CSV 数据
-├── notebooks/            # Jupyter Notebook 分析脚本
-├── src/
-│   └── data_utils.py     # 数据加载与预处理函数
-├── output/
-│   ├── figures/          # 图表输出
-│   └── tables/           # 表格输出
-├── docs/                 # 报告与演示材料
-├── run_analysis.py       # 脚本入口：批量读取并检查数据
-├── requirements.txt      # Python 依赖（pandas, numpy, seaborn…）
-├── environment.yml       # Conda 环境配置
-├── .gitignore            # 忽略虚拟环境、缓存、输出文件等
-└── README.md             # 完整安装、运行说明 & 目录结构 & 数据来源
-
+\## 分析项目地址
+https://github.com/dumohan0302/youtube-trending-analysis/blob/main/notebooks/01_eda_trending_analysis.ipynb
