@@ -3,7 +3,7 @@
 \## 项目简介
 
 本项目使用 Kaggle 提供的 YouTube Trending Video 数据集，探索影响视频热度的关键因素，包括播放量、点赞数、标题长度、标签数量和发布时间等。
-
+https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 
 ##原始数据 
