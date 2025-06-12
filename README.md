@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 \## 项目结构
 
-
+notebooks/01_eda_trending_analysis.ipynb
 
 youtube-trending-analysis/
 ├── data/archive/         # 放置 CSV 数据
